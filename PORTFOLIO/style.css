@@ -1,0 +1,17 @@
+body
+{
+    background-color: lightskyblue;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    scroll-behavior: smooth;
+    background-repeat:no-repeat;
+    background-position:bottom;
+}
+
+table,tr,td{
+    border: 1px solid black;
+    border-collapse: ;
+    border-spacing: 10px;
+}
